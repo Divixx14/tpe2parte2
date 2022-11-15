@@ -1,6 +1,9 @@
 API REST FULL
+
 Importar la base de datos
+
 importar desde PHPMyAdmin (o cualquiera) database/peliculas.sql
+
 ENDPOINTS
 
 GET ALL
